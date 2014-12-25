@@ -1,0 +1,18 @@
+.page{
+	padding: 5px 10px 5px 10px;
+	background:#BBB;
+	border-radius:5px;
+	display:block;
+	height:20px;
+	float:left;
+	text-align:center;
+	margin-left:10px;
+	color:#FFF;
+	font-weight:bold;
+}
+.page:hover,.page:active{
+	background:#CB3A11;	
+}
+.product-page{
+	margin-left:35%;
+}
